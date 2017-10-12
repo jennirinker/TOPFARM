@@ -1,0 +1,17 @@
+# swap files
+*.swp
+
+# compiled python
+*.pyc
+
+# docs
+doc/sphinx/build/
+
+# pip build
+build/
+
+# compiled python cache
+topfarm/__pycache__/*
+
+# egg from pip install
+topfarm.egg-info/
