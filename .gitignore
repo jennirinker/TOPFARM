@@ -15,3 +15,6 @@ topfarm/__pycache__/*
 
 # egg from pip install
 topfarm.egg-info/
+
+# pytest cache
+.cache/
